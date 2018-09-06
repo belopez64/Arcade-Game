@@ -1,0 +1,17 @@
+body {
+    text-align:center;
+    background-color: #5C4DB3;
+    font-family: 'Baloo Tammudu', cursive;
+}
+
+h1 {
+    height: 40px;
+    color: white;
+}
+
+h2 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 40px;
+    color: white;
+}
